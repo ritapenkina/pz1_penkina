@@ -1,0 +1,16 @@
+﻿<Window x:Class="pz2_penkina.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pz2_penkina"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="299,120,0,0" TextWrapping="Wrap" Text="Pen" VerticalAlignment="Top" Height="88" Width="189" FontSize="72" FontFamily="Impact"/>
+        <TextBlock HorizontalAlignment="Left" Margin="357,181,0,0" TextWrapping="Wrap" Text="ki" VerticalAlignment="Top" Height="88" Width="141" FontSize="72" FontFamily="Impact"/>
+        <TextBlock HorizontalAlignment="Left" Margin="299,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="88" Width="138" FontSize="72" FontFamily="Impact" FontWeight="Bold"><Run Text="na"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="296,233,0,0" TextWrapping="Wrap" Text="|" VerticalAlignment="Top" Foreground="White" FontFamily="Segoe UI Variable Display Light"/>
+      
+    </Grid>
+</Window>
