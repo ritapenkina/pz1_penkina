@@ -1,0 +1,28 @@
+﻿<Window x:Class="pz1_penkina.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pz1_penkina"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock TextWrapping="Wrap" Text="C" FontSize="150" Foreground="#FFEA7422" FontFamily="Segoe UI Black" Margin="148,24,534,227"/>
+        <TextBlock TextWrapping="Wrap" Text="О" FontSize="150" Foreground="#FFBD0943" FontFamily="Segoe UI Black" Margin="244,23,438,235"/>
+        <TextBlock TextWrapping="Wrap" Text="Ю" FontSize="150" Foreground="#FF1279D8" FontFamily="Segoe UI Black" Margin="356,23,274,233"/>
+        <TextBlock TextWrapping="Wrap" Text="З" Width="96" FontSize="160" Foreground="#FFE4BD07" FontFamily="Segoe UI Black" Margin="516,10,188,249"/>
+
+        <TextBlock TextWrapping="Wrap" Text="М" Height="146" FontSize="120" Foreground="#FF1279D8" FontFamily="Segoe UI Black" Margin="148,144,522,144"/>
+        <TextBlock TextWrapping="Wrap" Text="У" Height="146" Width="96" FontSize="120" Foreground="#FFE4BD07" FontFamily="Segoe UI Black" Margin="278,144,426,144"/>
+        <TextBlock TextWrapping="Wrap" Text="Л" Height="146" Width="96" FontSize="120" Foreground="#FF17BF29" FontFamily="Segoe UI Black" Margin="346,144,358,144"/>
+        <TextBlock TextWrapping="Wrap" Text="Ь" Height="146" Width="96" FontSize="120" Foreground="#FFEA7422" FontFamily="Segoe UI Black" Margin="450,144,254,144"/>
+        <TextBlock TextWrapping="Wrap" Text="Т" Height="146" Width="96" FontSize="120" Foreground="#FFBD0943" FontFamily="Segoe UI Black" Margin="522,144,182,144"/>
+
+        <TextBlock TextWrapping="Wrap" Text="Ф" Height="146" FontSize="120" Foreground="#FFBD0943" FontFamily="Segoe UI Black" Margin="146,232,540,56"/>
+        <TextBlock TextWrapping="Wrap" Text="И" Height="146" Width="96" FontSize="120" Foreground="#FFEA7422" FontFamily="Segoe UI Black" Margin="248,232,456,56"/>
+        <TextBlock TextWrapping="Wrap" Text="Л" Height="146" FontSize="120" Foreground="#FF1279D8" FontFamily="Segoe UI Black" Margin="344,232,326,56"/>
+        <TextBlock TextWrapping="Wrap" Text="Ь" Height="146" Width="96" FontSize="120" Foreground="#FFE4BD07" FontFamily="Segoe UI Black" Margin="428,232,276,56"/>
+        <TextBlock TextWrapping="Wrap" Text="М" Height="146" FontSize="120" Foreground="#FF1279D8" FontFamily="Segoe UI Black" Margin="500,232,170,57"/>
+
+    </Grid>
+</Window>
